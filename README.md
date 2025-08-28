@@ -1,4 +1,4 @@
-<img width="1440" height="768" alt="2" src="https://github.com/user-attachments/assets/8233fd8a-c1cf-4bf9-9157-666e20af8b9e" /># Meme-Muse
+
 The AI Business Trend Meme Generator is a Python-based application that combines the power of Google Gemini AI with Gradio to create fun, engaging, and context-aware memes based on current business trends or situations. This is a Python application that uses the Google Gemini API to generate a variety of relevant, humorous memes based on a user-provided business trend or situation. It features a simple web interface built with Gradio.
 
 
