@@ -6,7 +6,7 @@ The AI Business Trend Meme Generator is a Python-based application that combines
 
 ---
 
-## ✨ Features
+##  Features
 
 * **AI-Powered Captions**: Leverages the Gemini Pro model to understand context and generate witty captions.
 * **Multiple Templates**: Automatically creates different memes for the same trend using a variety of popular templates.
@@ -15,7 +15,7 @@ The AI Business Trend Meme Generator is a Python-based application that combines
 
 ---
 
-## 🛠️ Setup and Installation
+##  Setup and Installation
 
 Follow these steps to get the meme generator running on your local machine.
 
@@ -68,7 +68,7 @@ The application uses the "DejaVu Sans Bold" font.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 Once you have completed the setup, run the following command in your terminal:
 
@@ -80,7 +80,7 @@ This will start the Gradio server. Open the local URL provided in the terminal (
 
 ---
 
-## 🎨 How to Add New Meme Templates
+##  How to Add New Meme Templates
 
 You can easily add more templates:
 
