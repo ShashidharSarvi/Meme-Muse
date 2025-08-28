@@ -2,7 +2,6 @@
 The AI Business Trend Meme Generator is a Python-based application that combines the power of Google Gemini AI with Gradio to create fun, engaging, and context-aware memes based on current business trends or situations. This is a Python application that uses the Google Gemini API to generate a variety of relevant, humorous memes based on a user-provided business trend or situation. It features a simple web interface built with Gradio.
 
 
-*(Suggestion: After running the app, take a screenshot of the interface and replace the line above with it.)*
 
 ---
 
@@ -15,6 +14,8 @@ The AI Business Trend Meme Generator is a Python-based application that combines
 
 ---
 
+
+
 ##  Setup and Installation
 
 Follow these steps to get the meme generator running on your local machine.
@@ -25,6 +26,8 @@ Follow these steps to get the meme generator running on your local machine.
 git clone <your-repository-url>
 cd <your-repository-directory>
 ```
+
+
 
 ### **2. Create a Virtual Environment**
 
@@ -40,6 +43,8 @@ python -m venv venv
 .\venv\Scripts\activate
 ```
 
+
+
 ### **3. Install Dependencies**
 
 Install all the required Python libraries from the `requirements.txt` file.
@@ -47,6 +52,8 @@ Install all the required Python libraries from the `requirements.txt` file.
 ```bash
 pip install -r requirements.txt
 ```
+
+
 
 ### **4. Add Your API Key**
 
@@ -58,6 +65,8 @@ You need a Google Gemini API key to run this project.
     GEMINI_API_KEY="YOUR_API_KEY_HERE"
     ```
 3.  You can get a key from [Google AI Studio](https://aistudio.google.com/app/apikey).
+
+
 
 ### **5. Download the Font**
 
